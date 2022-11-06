@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class BonusServiceTest {
 
     @ParameterizedTest
-    @CsvFileSource(resources = "data.csv")
+    @CsvFileSource(resources = "/data.csv")
 
     void testUser(String[] text, long miles, boolean registered, long expected){
         BonusService service = new BonusService();
