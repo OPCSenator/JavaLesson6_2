@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83c483be-afef-4499-9fd9-658c6249e96e" name="Changes" comment="Первая версия программы">
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BonusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/bonus/BonusService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/bonus/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" afterDir="false" />
+    <list default="true" id="83c483be-afef-4499-9fd9-658c6249e96e" name="Changes" comment="поправил путь к файлу csv">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/data.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667757345818</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Поправил программу">
+      <created>1667758925402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667758925402</updated>
+    </task>
+    <task id="LOCAL-00003" summary="поправил путь к файлу csv">
+      <created>1667759000484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667759000484</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первая версия программы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Первая версия программы" />
+    <MESSAGE value="Поправил программу" />
+    <MESSAGE value="поправил путь к файлу csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="поправил путь к файлу csv" />
   </component>
 </project>
